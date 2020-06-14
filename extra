@@ -1,3 +1,5 @@
+pip install django
+python -m django --version 
 django-admin startproject myapp
 python manage.py runserver
 python manage.py startapp eduapp
